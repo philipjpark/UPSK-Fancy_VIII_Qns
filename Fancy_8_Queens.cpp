@@ -22,11 +22,11 @@ void print(int q[]) {
       }
    
   
-   static box bq = { {char(219),char(219),char(219),char(219),char(219),char(219),char(219)},
-                     {char(219),' '      ,char(219),' '      ,char(219),' '      ,char(219)},
-                     {char(219),' '      ,' '      ,' '      ,' '      ,' '      ,char(219)},
-                     {char(219),' '      ,' '      ,' '      ,' '      ,' '      ,char(219)},
-                     {char(219),char(219),char(219),char(219),char(219),char(219),char(219)} };
+   static box bq = { {char(220),char(220),char(220),char(220),char(220),char(220),char(220)},
+                     {char(220),' '      ,char(220),' '      ,char(220),' '      ,char(220)},
+                     {char(220),' '      ,' '      ,' '      ,' '      ,' '      ,char(220)},
+                     {char(220),' '      ,' '      ,' '      ,' '      ,' '      ,char(220)},
+                     {char(220),char(220),char(220),char(220),char(220),char(220),char(220)} };
                
    static box wq = { {' '      ,' '      ,' '      ,' '      ,' '      ,' '      ,' '      },
                      {' '      ,char(219),' '      ,char(219),' '      ,char(219),' '      },
